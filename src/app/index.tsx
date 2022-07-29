@@ -12,7 +12,6 @@ export const App = () => {
             <div>123123123</div>
             <div>123123123</div>
             <div>123123123</div>
-            <div>123123123</div><div>123123123</div>
             <div>123123123</div>
             <div>123123123</div>
             <div>123123123</div>
@@ -32,7 +31,8 @@ export const App = () => {
             <div>123123123</div>
             <div>123123123</div>
             <div>123123123</div>
-
+            <div>123123123</div>
+            <div>123123123</div>
             <div>123123123</div>
             <div>123123123</div>
             <div>123123123</div>

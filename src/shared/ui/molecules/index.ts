@@ -1,1 +1,0 @@
-export {StandardMenu} from "./standard-menu"
